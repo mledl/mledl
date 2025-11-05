@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A passionate software engineer from Austria. Currently developing digital champions @iteratec. Based in Salzburg and Vienna.</h3>
+<h3 align="center">A passionate software engineer from Austria. Based in Salzburg and Vienna. Currently enjoying problem solving and developing complex systems @aheadoftimesoftware.</h3>
 
 - 📫 How to reach me **martin.ledl55@gmail.com**
 
